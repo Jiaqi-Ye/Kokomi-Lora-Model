@@ -1,2 +1,2 @@
-# Nala
-kokomi lora model
+# kokomi lora model
+
