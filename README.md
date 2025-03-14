@@ -5,9 +5,10 @@ Welcome to the **Kokomi Lora Model**! This repository contains the pre-trained m
 ## Model Details
 
 - **Model Name**: Kokomi Lora Model
-- **Model Type**: Lora (Low-rank Adaptation)
-- **Training Details**: The model was fine-tuned using [datasets used], with training parameters optimized for [specific details].
-- **Uploaded on**: [Date]
+- **Model Type**: Lora
+- **Base Model**: Stable Diffusion 1.5
+- **Training Details**: The model was fine-tuned using 20 Kokomi character database and tag, with training parameters optimized for pink hair and purple and blue dress.
+- **Uploaded on**: 2025.3.13
 - **Hugging Face Repository**: [Kokomi Lora Model on Hugging Face](https://huggingface.co/jye224/Kokomi)
 
 ## How to Use
