@@ -36,7 +36,7 @@ git clone https://github.com/Jiaqi-Ye/Kokomi-Lora-Model.git
 ### Prompt:
 
 ```text
-<lora:kokomi-v1-000009:1>, 1 girl, Sangonomiya Kokomi, gloves, pink hair, 
+<lora:kokomi-v1:1>, 1 girl, Sangonomiya Kokomi, gloves, pink hair, 
 light blue gradient at the end of the hair, solo, hair in the shape of a bow, 
 smiling, open mouth, bangs, violet eyes, long hair, white gloves, ocean background, 
 fringed sleeves, droplets, wide sleeves, looking at the viewer, bow, fine. 
