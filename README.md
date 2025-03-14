@@ -1,41 +1,52 @@
 # Kokomi Lora Model
 
-Welcome to the **Kokomi Lora Model**! This repository contains the pre-trained model and files related to the Kokomi Lora project, designed for **Stable Diffusion WebUI and ComfyUI**. The model is available on **[Hugging Face](https://huggingface.co/jye224/Kokomi)** and can be used for **anime-style character generation**.
+The **Kokomi Lora Model** is a **LoRA model** fine-tuned for **Stable Diffusion 1.5**, designed to generate high-quality images of anime-style **Sangonomiya Kokomi** characters.
+
+This model is compatible with **SD WebUI** and **ComfyUI** and is available on **Hugging Face**.
 
 ## Model Details
 
-- **Model Name**: Kokomi Lora Model  
-- **Model Type**: Lora  
-- **Base Model**: Stable Diffusion 1.5  
-- **Training Details**: Fine-tuned using a dataset of 20 high-quality Kokomi character images with tagged attributes. Optimized for generating **pink-haired, violet-eyed characters in a purple and blue dress** with enhanced detail.  
-- **Uploaded on**: March 13, 2025  
-- **Hugging Face Repository**: [Kokomi Lora Model on Hugging Face](https://huggingface.co/jye224/Kokomi)  
+- **Model Name**: Kokomi Lora Model
+- **Model Type**: LoRA
+- **Base Model**: Stable Diffusion 1.5
+- **Training Data**: 20 high-quality images of Kokomi with detailed tagging
+- **Optimized Features**: pink hair + blue-purple gradient dress
+- **Release Date**: 2025.03.13
+- **Hugging Face Repository**: [Kokomi Lora Model on Hugging Face](https://huggingface.co/jye224/Kokomi)
 
 ## Get Started
 
-To use the **Kokomi Lora Model**, you can download it directly from Hugging Face or clone this repository for local use:
+### Load the Model
 
-### 1. Download from Hugging Face  
-You can load the Lora model into **Stable Diffusion WebUI** or **ComfyUI** by downloading it from:  
-🔗 [Kokomi Lora Model on Hugging Face](https://huggingface.co/jye224/Kokomi)
+#### Download from Hugging Face
 
-### 2. Clone the Repository  
-Alternatively, you can clone this repository to access all files locally:  
+You can download the model directly from Hugging Face:
+
+[Kokomi Lora Model on Hugging Face](https://huggingface.co/jye224/Kokomi)
+
+Alternatively, you can use `git lfs` to clone the model:
+
+### Clone the Repository
 
 ```bash
 git clone https://github.com/Jiaqi-Ye/Kokomi-Lora-Model.git
 ```
 
-## Screenshot  
+## Example
 
-**Prompt:**  
+### Prompt:
 
 ```text
-<lora:kokomi-v1-000009:1>, 1 girl, Sangonomiya Kokomi, gloves, pink hair, light blue gradient at the end of the hair, solo, hair in the shape of a bow, smiling, open mouth, bangs, violet eyes, long hair, white gloves, ocean background, fringed sleeves, water droplets, wide sleeves, looking at the viewer, bow, fine details, 8K, HD
+<lora:kokomi-v1-000009:1>, 1 girl, Sangonomiya Kokomi, gloves, pink hair, 
+light blue gradient at the end of the hair, solo, hair in the shape of a bow, 
+smiling, open mouth, bangs, violet eyes, long hair, white gloves, ocean background, 
+fringed sleeves, droplets, wide sleeves, looking at the viewer, bow, fine. 
+8K, HD
 ```
 
-![Example Image](example1.png) *(Replace with actual generated image)*
+## License
 
----
+- This model is for research and educational purposes only.
+- Do not use it for commercial purposes.
+- For issues or suggestions, please open a discussion in GitHub Issues.
 
-This README provides an easy way to get started with the **Kokomi Lora Model**, whether you're using it in **Stable Diffusion WebUI** or **ComfyUI**. Let me know if you'd like any further refinements! 🚀
