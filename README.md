@@ -47,7 +47,15 @@ fringed sleeves, droplets, wide sleeves, looking at the viewer, bow, fine.
 ```
 
 <p align="center">
-  <img src="https://github.com/Jiaqi-Ye/Kokomi-Lora-Model/blob/main/image/1.jpg" width="600" />
+  <img src="https://github.com/Jiaqi-Ye/Kokomi-Lora-Model/blob/main/image/1.jpg" width="900" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Jiaqi-Ye/Kokomi-Lora-Model/blob/main/image/2.jpg" width="900" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Jiaqi-Ye/Kokomi-Lora-Model/blob/main/image/3.jpg" width="900" />
 </p>
 
 ## License
