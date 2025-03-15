@@ -30,6 +30,9 @@ Alternatively, you can use `git lfs` to clone the model:
 ```bash
 git clone https://github.com/Jiaqi-Ye/Kokomi-Lora-Model.git
 ```
+## Kokomi Character
+
+![Kokomi Character](https://github.com/Jiaqi-Ye/Kokomi-Lora-Model/blob/main/image/kokomi.jpg)
 
 ## Example
 
