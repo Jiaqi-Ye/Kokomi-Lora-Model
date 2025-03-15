@@ -24,12 +24,6 @@ You can download the model directly from Hugging Face:
 
 [Kokomi Lora Model on Hugging Face](https://huggingface.co/jye224/Kokomi)
 
-### Clone the Repository
-
-Alternatively, you can use `git lfs` to clone the model:
-```bash
-git clone https://github.com/Jiaqi-Ye/Kokomi-Lora-Model.git
-```
 ## Kokomi Character
 
 <p align="center">
