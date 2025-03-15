@@ -42,7 +42,7 @@ You can download the model directly from Hugging Face:
 
 ### Prompt:
 
-text
+```text
 <lora:kokomi-v1:1>, 1 girl, Sangonomiya Kokomi, gloves, pink hair, 
 light blue gradient at the end of the hair, solo, hair in the shape of a bow, 
 smiling, open mouth, bangs, violet eyes, long hair, white gloves, ocean background, 
