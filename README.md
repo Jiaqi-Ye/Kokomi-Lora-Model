@@ -4,6 +4,7 @@ The **Kokomi Lora Model** is a **LoRA model** fine-tuned for **Stable Diffusion 
 
 This model is compatible with **SD WebUI** and **ComfyUI** and is available on **Hugging Face**.
 
+
 ## Model Details
 
 - **Model Name**: Kokomi Lora Model
@@ -13,6 +14,7 @@ This model is compatible with **SD WebUI** and **ComfyUI** and is available on *
 - **Optimized Features**: pink hair + blue-purple gradient dress
 - **Release Date**: 2025.03.13
 - **Hugging Face Repository**: [Kokomi Lora Model on Hugging Face](https://huggingface.co/jye224/Kokomi)
+
 
 ## Get Started
 
@@ -24,11 +26,13 @@ You can download the model directly from Hugging Face:
 
 [Kokomi Lora Model on Hugging Face](https://huggingface.co/jye224/Kokomi)
 
+
 ## Kokomi Character
 
 <p align="center">
 <img src="https://github.com/Jiaqi-Ye/Kokomi-Lora-Model/blob/main/image/kokomi.jpg" width="600" />
 </p>
+
 
 ## Example
 
