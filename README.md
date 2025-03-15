@@ -32,7 +32,7 @@ git clone https://github.com/Jiaqi-Ye/Kokomi-Lora-Model.git
 ```
 ## Kokomi Character
 
-![Kokomi Character](https://github.com/Jiaqi-Ye/Kokomi-Lora-Model/blob/main/image/kokomi.jpg)
+<img src="https://github.com/Jiaqi-Ye/Kokomi-Lora-Model/blob/main/image/kokomi.jpg" width="900" />
 
 ## Example
 
