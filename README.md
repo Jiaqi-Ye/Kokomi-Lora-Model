@@ -46,6 +46,10 @@ fringed sleeves, droplets, wide sleeves, looking at the viewer, bow, fine.
 8K, HD
 ```
 
+<p align="center">
+  <img src="https://github.com/Jiaqi-Ye/Kokomi-Lora-Model/blob/main/image/1.jpg" width="600" />
+</p>
+
 ## License
 
 - This model is for research and educational purposes only.
